@@ -1,0 +1,13 @@
+[
+    {
+        "name": "graavm.App",
+        "methods": [
+            {
+                "name": "getGreeting",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    }
+]
